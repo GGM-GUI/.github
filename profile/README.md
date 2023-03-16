@@ -1,12 +1,4 @@
-## Hi there 👋
+## Welcome GUI !
+![img](http://ggm.gondr.net/image/circles/23/background/GUI_.png)
 
-<!--
-
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+> [2023 GUI 노션](https://2m8.notion.site/GUI-s-Workspace-16c176d2ee8946db8699bf57ec41b99a)
